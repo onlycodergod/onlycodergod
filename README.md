@@ -1,9 +1,10 @@
-Hello everyone, my name is Boris Orlov! I write projects only on the backend.
+## My name is Boris Orlov! I write projects only on the back-end.
 <div align="center">
   <a href="https://github.com/onlycodergod">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlycodergod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlycodergod&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src=https://icongr.am/devicon/python-original.svg?size=128&color=000000">
