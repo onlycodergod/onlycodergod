@@ -1,4 +1,4 @@
-## Junior GO Developer! I write projects only on the back-end.
+## GO Back-End Developer here guys! You are welcome!
 <div align="center">
   <a href="https://github.com/onlycodergod">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=onlycodergod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
