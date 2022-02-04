@@ -11,8 +11,8 @@
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/redis-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
-   <img align="center" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=000000"> 
- 
+  <img align="center" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=000000">
+  <img align="center" height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg?size=128&color=000000">
  
 <div> 
   <a href="https://www.youtube.com/channel/UCuQ2m5d33SRYqjNyueM2cWw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
