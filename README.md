@@ -11,7 +11,7 @@
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/redis-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
-   <img align="center" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor?size=128&color=000000"> 
+   <img align="center" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=000000"> 
   ##
  
 <div> 
