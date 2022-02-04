@@ -7,15 +7,11 @@
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/go-original.svg?size=128&color=000000">
-  <img align="center" height="30" width="40" src=https://icongr.am/devicon/python-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/redis-original.svg?size=128&color=000000">
   <img align="center" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=128&color=000000">
-  <img align="center" height="30" width="40" src="https://icongr.am/devicon/redhat-original.svg?size=128&color=000000">
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn1.savepice.ru/uploads/2022/1/9/19cd9b3c4be5e0afcd3a322edcb6fa29-full.jpg?width=676&height=676">
-</div>
-  
+   <img align="center" height="30" width="40" src="https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor?size=128&color=000000"> 
   ##
  
 <div> 
