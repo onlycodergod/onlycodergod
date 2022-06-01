@@ -1,4 +1,4 @@
-## GO Back-End Developer here guys.
+Hi all and we.
 <div align="center">
   <a href="https://github.com/onlycodergod">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=onlycodergod&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -21,5 +21,4 @@
  <a href="https://discord.gg/VHZ8H4cV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:onlycodergod@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gocoding" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
+  </div>
